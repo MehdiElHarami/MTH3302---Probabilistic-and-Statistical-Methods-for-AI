@@ -1,4 +1,4 @@
-# MTH3302---Probabilistic-and-Statistical-Methods-for-AI
+# MTH3302 - Probabilistic-and-Statistical-Methods-for-AI
 
 # Project Overview
 This project was completed as part of the MTH3302 - Probabilistic and Statistical Methods for AI course at Polytechnique Montréal. The goal was to predict wine quality scores (0-10 scale) based on chemical properties using machine learning techniques.
