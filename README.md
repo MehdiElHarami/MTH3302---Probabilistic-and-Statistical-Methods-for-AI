@@ -33,7 +33,7 @@ Evaluation Metric: Root Mean Squared Error (RMSE)
 
 * Earned 33/30 points (including bonus points)
 
-![Description of the image](results.png)
+!(results.png)
 
 # Key Strengths (from professor's evaluation):
 * Comprehensive and rigorous notebook
