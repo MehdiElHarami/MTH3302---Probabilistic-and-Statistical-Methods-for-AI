@@ -49,5 +49,5 @@ Evaluation Metric: Root Mean Squared Error (RMSE)
 * Useful partial conclusions
 
 
-# You can the full project report here:
+# You can view the full project report here:
 [Project Report (PDF)](Projet_Equipe_E.pdf)
